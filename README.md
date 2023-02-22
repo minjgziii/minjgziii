@@ -1,4 +1,4 @@
 ### ☃️❄️🧊💎⛸️✈⛄️
 
-<a href="https://github.com/minjgziii" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-FFA07A?style=flat&logo=appveyor&logo=#000000&logoColor=FFA07A"/>
+<a href="https://github.com/minjgziii" target="_blank"><img src="https://img.shields.io/badge/@minjgziii-696969?style=flat&logo=appveyor&logo=#000000&logoColor=696969"/>
 </a>
